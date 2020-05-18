@@ -42,9 +42,8 @@ A curated list of fast Go libraries.
   - [fasthttprouter](https://github.com/buaazp/fasthttprouter)
 * Protocol buffers
   - [protobuf](https://github.com/gogo/protobuf)
-  
-## Utils
-* [tcplisten](https://github.com/valyala/tcplisten)
+* Utils
+  - [tcplisten](https://github.com/valyala/tcplisten)
 
 ## Rand
 * [fastrand](https://github.com/valyala/fastrand)
