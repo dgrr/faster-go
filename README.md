@@ -40,6 +40,7 @@ A curated list of fast Go libraries.
 * HTTP
   - [fasthttp](https://github.com/valyala/fasthttp)
   - [fasthttprouter](https://github.com/buaazp/fasthttprouter)
+  - [router](https://github.com/fasthttp/router)
 * Protocol buffers
   - [protobuf](https://github.com/gogo/protobuf)
 * Utils
